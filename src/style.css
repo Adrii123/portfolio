@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-Oswald {
+  font-family: 'Oswald', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+    transition-timing-function: ease-in-out;
+    transition-duration: 0.5s; /* Réglage de la durée de la transition */
+}
