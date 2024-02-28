@@ -27,14 +27,14 @@
 
 		<!-- Project gallery -->
 		<div class="grid grid-cols-1 sm:grid-cols-3 sm:gap-10 mt-12">
-            <div
+            <!-- <div
                 class="mb-10 sm:mb-0 "
             >
                 <img
                     src="../assets/project_unss_img1.jpg"
                     class="rounded-xl cursor-pointer shadow-lg sm:shadow-none border-2 border-gray-200"
                 />
-            </div>
+            </div> -->
             <div
                 class="mb-10 sm:mb-0"
             >
