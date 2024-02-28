@@ -18,7 +18,7 @@
                     <IconTag />
                     <span
                         class="font-general-medium ml-2 leading-none text-primary-dark dark:text-primary-light"
-                        >Webdesign, Wordpress, Design graphique</span
+                        >Webdesign, Wordpress, Graphic design</span
                     >
                 </div>
             </div>
