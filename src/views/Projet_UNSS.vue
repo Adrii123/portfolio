@@ -3,8 +3,6 @@
     import IconFigma from '../components/icons/IconFigma.vue'
     import IconGithub from '../components/icons/IconGithub.vue'
     import IconDownload from '@/components/icons/IconDownload.vue';
-
-    
 </script>
 
 <template>
